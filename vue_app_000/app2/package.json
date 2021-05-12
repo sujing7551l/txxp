@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "jquery": "^3.4.1",
     "mint-ui": "^2.2.13",
     "vant": "^2.2.8",
